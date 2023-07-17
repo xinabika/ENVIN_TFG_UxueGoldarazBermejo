@@ -1,2 +1,2 @@
 # ENVIN_TFG_UxueGoldarazBermejo
-TFG de ingeniería informática de Uxue Goldaraz Bermejo 
+Trabajo Fin de Grado de Ingeniería Informática cursado en UNIR por Uxue Goldaraz Bermejo 
